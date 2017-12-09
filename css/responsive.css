@@ -1,0 +1,21 @@
+@media only screen and (max-width: 480px) {
+    .header-text {
+        font-size: 33px;
+    }
+    .find-header{
+      font-size: 18px;
+    }
+    .tabs .tab a{
+      font-size: 11px;
+
+    }
+    .login-bg{
+      display: none;
+    }
+    .mb-hidden{
+      display: none;
+    }
+    .rate{
+      text-align: center;
+    }
+}

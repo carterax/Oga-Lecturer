@@ -1,0 +1,153 @@
+/*second choice color #228ed7*/
+body{
+  font-family: 'Quicksand', sans-serif;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+.sep{
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+.nav-menu{
+  background: url(0,0,0,0.1);
+}
+.bg-banner{
+  background: url("../img/bg.jpg");
+  height: 770px;
+  margin-top: -70px;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header-text{
+  font-size: 42px;
+  font-weight: bold;
+  line-height: ;
+  text-align: center;
+}
+.sub-header{
+  font-size: 18px;
+  text-align: center;
+}
+.prof{
+  color: #f23f79;
+}
+.find-header{
+  font-size: 22px;
+  font-weight: 400;
+  text-align: center;
+}
+.tab-custom li a{
+  color: #fff;
+}
+.chip{
+  cursor: pointer;
+}
+.chip:hover{
+  background-color: #f23f79;
+  transition: all ease-in 200ms;
+  color: #fff;
+}
+.locale{
+  display: none;
+}
+.login{
+  height: 100vh;
+  color: #151515;
+}
+.login-bg{
+  background: url("../img/sign.jpg");
+  background-attachment: fixed;
+  width: 100vh;
+  height: 100vh;
+  position: fixed;
+}
+.login-form{
+  margin-top: 50px;
+  float: left;
+}
+.fb{
+  background: #3b5998;
+  padding: 10px;
+  color: #fff;
+}
+.twi{
+  background-color: #4099FF;
+  padding: 10px;
+  color: #fff;
+}
+.google{
+  background: #dd4b39;
+  color: #fff;
+  padding: 10px;
+}
+.row-bg{
+  background: url("../img/bg2.jpg");
+  height: 67vh;
+  margin-top: -70px;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cat-icon{
+  font-size: 20px;
+  color: #228ed7;
+  padding: 10px;
+}
+.indent{
+  text-indent: 30px;
+}
+.sch-name{
+  font-size: 18px;
+
+}
+.state{
+  color: #333;
+}
+.rate{
+  font-weight: bold;
+}
+.rate_score{
+  font-size: 75px;
+  font-weight: bold;
+}
+.mobile-flame{
+  position: absolute;
+  top: 0px;
+}
+.rate-each{
+  font-weight: bold;
+  font-size: 18px;
+  color: #228ed7;
+}
+.rate-header{
+  font-weight : bold;
+  font-size: 18px;
+}
+.student-rate{
+  padding: 10px;
+}
+.student-score{
+  padding-right: 1em;
+  color: #228ed7;
+  font-weight: bold;
+}
+.student-param{
+  font-weight: bold;
+}
+.student-param-hold li{
+  padding-bottom: 1em;
+}
+.show-reply-form{
+  display: none;
+}
+.show-reply{
+  cursor: pointer;
+}
